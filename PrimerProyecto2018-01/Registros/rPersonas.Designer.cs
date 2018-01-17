@@ -94,7 +94,7 @@
             // 
             this.Eliminarbutton.Location = new System.Drawing.Point(419, 213);
             this.Eliminarbutton.Name = "Eliminarbutton";
-            this.Eliminarbutton.Size = new System.Drawing.Size(75, 23);
+            this.Eliminarbutton.Size = new System.Drawing.Size(82, 33);
             this.Eliminarbutton.TabIndex = 5;
             this.Eliminarbutton.Text = "Eliminar";
             this.Eliminarbutton.UseVisualStyleBackColor = true;
